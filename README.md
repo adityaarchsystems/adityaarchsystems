@@ -1,3 +1,13 @@
+<!-- Enforce clear spatial alignment with premium dark theme metrics -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaarchsystems&show_icons=true&theme=tokyonight&bg_color=090812&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=cbd5e1" alt="Calyx Telemetry Matrix" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaarchsystems&layout=compact&theme=tokyonight&bg_color=090812&hide_border=true&title_color=a855f7&text_color=cbd5e1" alt="Language Mix Matrix" width="48%" />
+</p>
+
+### 📡 Active Engineering Core
+* 🏢 **Brand Workspace:** [Calyx Studios](https://github.com/adityaarchsystems) — *Unified edge-cached data orchestration interfaces.*
+* ⚡ **Current Focus:** Optimization passes across high-density 2x2 multi-agent grids.
+* 📦 **Production Pipelines:** Persistent JSON schema synchronization via Supabase backend engines.
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=ADITYA%20SHARMA&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=40" width="100%" />
