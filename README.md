@@ -1,13 +1,21 @@
-<!-- Enforce clear spatial alignment with premium dark theme metrics -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaarchsystems&show_icons=true&theme=tokyonight&bg_color=090812&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=cbd5e1" alt="Calyx Telemetry Matrix" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaarchsystems&layout=compact&theme=tokyonight&bg_color=090812&hide_border=true&title_color=a855f7&text_color=cbd5e1" alt="Language Mix Matrix" width="48%" />
+# ADITYA SHARMA
+### Founder, Calyx Studios
+
+<p align="left">
+  <a href="https://github.com/adityaarchsystems">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityaarchsystems&show_icons=true&theme=tokyonight&bg_color=090812&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=cbd5e1" alt="Calyx Telemetry Matrix" height="180" />
+  </a>
+  <a href="https://github.com/adityaarchsystems">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityaarchsystems&layout=compact&theme=tokyonight&bg_color=090812&hide_border=true&title_color=a855f7&text_color=cbd5e1" alt="Language Mix Matrix" height="180" />
+  </a>
 </p>
 
-### 📡 Active Engineering Core
-* 🏢 **Brand Workspace:** [Calyx Studios](https://github.com/adityaarchsystems) — *Unified edge-cached data orchestration interfaces.*
-* ⚡ **Current Focus:** Optimization passes across high-density 2x2 multi-agent grids.
-* 📦 **Production Pipelines:** Persistent JSON schema synchronization via Supabase backend engines.
+⚡ **Core Architecture:** Intelligence Arbitrage • Architecture Templates • Active Ecosystems
+
+---
+
+### ⚡ About Me
+I am a Frontend Architect and UI/UX Designer dedicated to **Vibe Coding** and building high-performance autonomous multi-agent systems. As the founder of **Calyx Studios**, I focus on building digital service wrappers around advanced AI APIs, orchestrating telemetry pipelines, and engineering robust, production-ready frontend architectures.
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=ADITYA%20SHARMA&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=40" width="100%" />
