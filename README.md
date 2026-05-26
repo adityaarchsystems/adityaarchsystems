@@ -1,10 +1,3 @@
-Here is the complete, re-architected, and visually unified GitHub Profile README designed to meet the strict **Calyx Standard**.
-
-This revision eliminates the redundant duplicate blocks from your original file, shifts your positioning to that of an elite full-stack engineer, integrates your formal academic foundation, and cleans up the theme colors to match a cohesive, high-density dark aesthetic.
-
----
-
-```markdown
 # 🛰️ ADITYA SHARMA
 ### Systems Architect & Full-Stack Engineer • Founder, Calyx Studios
 
